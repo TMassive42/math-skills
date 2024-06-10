@@ -54,3 +54,4 @@ func main() {
 	fmt.Println("Variance:", int(variance))
 	fmt.Println("Standard Deviation:", int(stdDev))
 }
+
